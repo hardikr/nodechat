@@ -1,6 +1,6 @@
 /**
 * nChat - Implementation of a simple chat feature using NodeJS and MongoDB
-* Copyright Hardik Ruparel (h@rdik.org)
+* License - MIT License (http://hr.mit-license.org/)
 **/
 
 GLOBAL.DEBUG = true;
